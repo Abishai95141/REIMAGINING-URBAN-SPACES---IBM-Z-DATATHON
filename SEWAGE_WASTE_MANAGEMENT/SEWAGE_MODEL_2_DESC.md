@@ -4,6 +4,8 @@
 
 <hr>
 
+<h3> PSEUDO CODE / ALGORITHM : </h3>
+
 ####  1. Import necessary libraries
     - Import libraries for data manipulation, model training, and time handling
 
