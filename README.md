@@ -19,7 +19,7 @@ S NANDIKA - snandika37@gmail.com
 
 <hr>
 
-### REIMAGINING URBAN SPACES : Video Presentation
+### Reimagining Urban Spaces : Video Presentation
 
 
 ### LinuxOne JupyterLab : TrafficTrack
