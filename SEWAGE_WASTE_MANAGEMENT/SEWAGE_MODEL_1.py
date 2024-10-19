@@ -13,7 +13,7 @@ from datetime import datetime, timedelta
 from geopy.distance import geodesic
 
 # Step 1: Load the dataset
-data = pd.read_csv('/content/input_1.csv')
+data = pd.read_csv('/content/SEWAGE_DATASET_1.csv')
 
 # Step 2: Feature selection
 features = data[['Population_Density', 'Household_Size', 'Water_Consumption', 'Sewage_load_normal_day', 'Sewage_load_eventual_day']]
