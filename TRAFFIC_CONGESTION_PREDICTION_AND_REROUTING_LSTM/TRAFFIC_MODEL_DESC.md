@@ -4,7 +4,7 @@
 
 <hr>
 
-### PSEUDO CODE / ALOGORITHM :
+<h3> PSEUDO CODE / ALGORITHM : </h3>
 
 #### 1. Import necessary libraries
     - numpy, pandas, sklearn, tensorflow, matplotlib, seaborn, time
