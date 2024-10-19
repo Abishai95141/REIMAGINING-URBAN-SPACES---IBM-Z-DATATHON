@@ -82,7 +82,7 @@ model.add(Dense(units=1))
 model.compile(optimizer='adam', loss='mean_squared_error')
 
 # Step 12: Train the LSTM model
-history = model.fit(X_train, y_train, epochs=4, batch_size=32, validation_data=(X_test, y_test))
+history = model.fit(X_train, y_train, epochs=10, batch_size=32, validation_data=(X_test, y_test))
 
 # Step 13: Make predictions using the trained model
 predictions = model.predict(X_test)
